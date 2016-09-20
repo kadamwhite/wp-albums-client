@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Plunderphonics",
+    "description": "Any music made by taking one or more existing audio recordings and altering them in some way to make a new composition. Plunderphonics can be considered a form of sound collage."
+  },
+  {
+    "name": "Disco Pop",
+    "description": "Contemporary pop music borrowing the style of (or sampling) Disco, a genre of dance music containing elements of funk, soul, pop, and salsa which achieved popularity during the mid-1970s to the early 1980s."
+  },
+  {
+    "name": "Dance",
+    "description": "A broad range of percussive electronic music genres produced largely for nightclubs, raves, and festivals. Produced for playback by disc jockeys (DJs), dance music is generally used in the context of a live mix, where a DJ creates a seamless selection of tracks by segueing from one recording to the next."
+  },
+  {
+    "name": "Dance Pop",
+    "description": "Dance-pop is dance-oriented pop music genre that originated in the early 1980s. It is generally up-tempo music intended for nightclubs with the intention of being danceable but also suitable for contemporary hit radio."
+  },
+  {
+    "name": "Alternative Rock",
+    "description": "A genre of rock music that emerged from the independent music underground of the 1980s and became widely popular in the 1990s and 2000s. In this instance, the word \"alternative\" refers to the genre's distinction from mainstream rock music."
+  },
+  {
+    "name": "Techno",
+    "parent": "Dance",
+    "description": "Techno is a form of electronic dance music that emerged in Detroit, Michigan, in the United States during the mid-to-late 1980s. Stylistically, techno is generally repetitive instrumental music."
+  },
+  {
+    "name": "Minimal Techno",
+    "parent": "Techno",
+    "description": "Minimal techno is a minimalist subgenre of techno music. It is characterized by a stripped-down aesthetic that exploits the use of repetition and understated development."
+  },
+  {
+    "name": "House",
+    "parent": "Dance",
+    "description": "House music is a genre of electronic dance music created by club DJs and music producers that originated in Chicago in the early 1980s."
+  },
+  {
+    "name": "Progressive House",
+    "parent": "House",
+    "description": "Progressive house is a style (subgenre) of house music. The progressive house style emerged in the early 1990s."
+  }
+]
