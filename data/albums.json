@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Since I Left You",
+    "date": "2000-11-27T12:00:00.000Z",
+    "genres": [ "Plunderphonics", "Disco Pop", "Dance" ],
+    "bands": [ "The Avalanches" ],
+    "cover": {
+      "file": "since_i_left_you.jpg",
+      "alt": "An aquatic scene depicts three rubber rafts with about ten people in each. The water has white crested waves. The left raft is separated from the leading two by a chest high wave. A person stands in the right raft and is facing back to the last one with an arm raised. The band's name is written in white letters near the bottom with the album's title below it; both use the same block capital script."
+    },
+    "content": "<em>Since I Left You</em> is the debut studio album by Australian electronic music group The Avalanches, released on 27 November 2000. It was issued on Modular Recordings and produced by The Avalanches' members Robbie Chater and Darren Seltmann (under the pseudonym Bobbydazzler). The album uses sampling extensively, containing an estimated 3,500 samples from various genres of music. The album was created in two separate near-identical studios by Chater and Seltmann, exchanging audio mixes of records they sampled.<em>(adapted from <a href=\"https://en.wikipedia.org/wiki/Since_I_Left_You\">Wikipedia</a>)</em>"
+  },
+  {
+    "title": "Take My Breath Away",
+    "date": "2009-03-09T12:00:00.000Z",
+    "genres": [ "House", "Progressive House", "Techno", "Minimal Techno" ],
+    "bands": [ "Gui Boratto" ],
+    "cover": {
+      "file": "take_my_breath_away.jpg",
+      "alt": "Eight orange-robed children wearing gas masks are in a field of yellow flowers, three of them siting down. One of the two standing children in the middle has his head resting on the shoulder of the girl next to him. The artist's name is displayed in prominent, modern white lettering towards the top right corner, with the album's title shown in ornate type immediately below."
+    },
+    "content": "<em>Take My Breath Away</em> is Gui Boratto's 2009 follow-up to his 2007 debut <em>Chromophobia</em>. The album exemplifies Boratto's fascination with playing subtle cross-grain tensions against the rosiest-cheeked of melodies. In a techno landscape often cold and crass, anything like the sincerity Boratto has to offer should be met fireside, a hot cup on hand. <em>(adapted from <a href=\"https://www.residentadvisor.net/reviews/5901\">Resident Advisor</a>)</em>"
+  }
+]

@@ -14,14 +14,15 @@ const defaultConfig = {
 };
 
 const create = url => {
-  const client = new WPAPI( Object.assign( {
+  const client = new WPAPI( Object.assign({
     endpoint: url
   }, defaultConfig, credentials ) );
 
   // Add support for our custom content types
-  client.albums = client.registerRoute( 'wp/v2', 'albums/(?P<id>[\\d]+)', {} );
-  client.bands = client.registerRoute( 'wp/v2', 'bands/(?P<id>[\\d]+)', {} );
-  client.genres = client.registerRoute( 'wp/v2', 'genres/(?P<id>[\\d]+)', {} );
+  client.media = client.registerRoute( 'wp/v2', 'media/(?P<id>[\\d]+)', {});
+  client.albums = client.registerRoute( 'wp/v2', 'albums/(?P<id>[\\d]+)', {});
+  client.bands = client.registerRoute( 'wp/v2', 'bands/(?P<id>[\\d]+)', {});
+  client.genres = client.registerRoute( 'wp/v2', 'genres/(?P<id>[\\d]+)', {});
 
   return client;
 };
