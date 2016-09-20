@@ -14,7 +14,7 @@ const defaultConfig = {
 };
 
 const create = url => {
-  const client = new WPAPI( Object.assign({
+  const client = new WPAPI( Object.assign( {
     endpoint: url
   }, defaultConfig, credentials ) );
 
