@@ -1,0 +1,20 @@
+extends: wordpress
+parserOptions:
+  ecmaVersion: 6
+env:
+  node: true
+rules:
+  # removed rules
+  no-empty-label: 0
+  space-after-keywords: 0
+  space-return-throw-case: 0
+  # new versions of removed rules
+  no-labels: [ "error" ]
+  keyword-spacing: [ "error", { "before": true } ]
+  # overrides
+  dot-location: [ "error", "property" ]
+  indent: [ "error", 2 ]
+  max-statements-per-line: [ "error", { "max": 2 } ]
+  no-var: [ "error" ]
+  one-var: [ "error", "never" ]
+  quote-props: 0
